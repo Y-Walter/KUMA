@@ -1,2 +1,2 @@
-# KUMA
+# KUMA [![CI](https://github.com/Y-Walter/KUMA/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Y-Walter/KUMA/actions/workflows/ci.yml) [![CodeQL Advanced](https://github.com/Y-Walter/KUMA/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/Y-Walter/KUMA/actions/workflows/codeql.yml)
 Keep Up My Achievements (KUMA): A simple yet powerful task management app that helps you prioritize and achieve your goals with ease. Featuring both list and quadrant views for ultimate productivity.
