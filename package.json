@@ -1,0 +1,30 @@
+{
+  "name": "kuma",
+  "version": "0.0.0",
+  "description": "Keep Up My Achievements (KUMA): A simple yet powerful task management app that helps you prioritize and achieve your goals with ease. Featuring both list and quadrant views for ultimate productivity.",
+  "scripts": {
+    "check": "biome check .",
+    "check:fix": "biome check . --write",
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Y-Walter/KUMA.git"
+  },
+  "keywords": [],
+  "author": "y-walter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Y-Walter/KUMA/issues"
+  },
+  "homepage": "https://github.com/Y-Walter/KUMA#readme",
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4",
+    "husky": "9.1.7",
+    "typescript": "5.7.3"
+  },
+  "volta": {
+    "node": "22.13.0",
+    "npm": "11.0.0"
+  }
+}
